@@ -27,4 +27,4 @@ Multiplayer Mode:-
 In multiplayer mode, two human players take turns to place their markers (X or O) on the board.
 
 Contact
-If you have any questions or suggestions,feel free to contactat - reetbhardwaj2103@gmail.com
+If you have any questions or suggestions,feel free to contact at - reetbhardwaj2103@gmail.com
